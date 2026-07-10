@@ -27,7 +27,7 @@ from aiohttp import web
 # ============================================================================
 
 class Config:
-    TELEGRAM_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN_HERE"
+    TELEGRAM_TOKEN = "8607242917:AAF35NSqNnqAwSfybR4CcQI0W30MYujTUg4"  # Put YOUR real token here
     PORT = int(os.environ.get("PORT", 8080))
     SYMBOL = "XAUUSD"
     TIMEFRAMES = ["M15", "M5", "M1"]
