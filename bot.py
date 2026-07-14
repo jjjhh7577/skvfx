@@ -26,8 +26,8 @@ import pandas as pd
 # 0. CONFIGURATION & CREDENTIALS (HARDCODED)
 # ================================================================================
 # PASTE YOUR TELEGRAM CREDENTIALS HERE
-TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-TELEGRAM_CHAT_ID = "YOUR_TELEGRAM_CHAT_ID"
+TELEGRAM_BOT_TOKEN = "8938301022:AAHzdA-MATVpFynvwZ38G9TjUh-XY9qk8vE"
+TELEGRAM_CHAT_ID = "7614728839"
 
 
 # Configure Elite Logging Infrastructure
